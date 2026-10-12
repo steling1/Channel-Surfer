@@ -1,0 +1,1 @@
+{"name":"channel-surf","version":"1.0.0","private":true,"description":"Eight retro arcade games. One increasingly chaotic run.","scripts":{"start":"node arcade-server.cjs","check":"node --check arcade.js","test":"node arcade-test.cjs"}}
